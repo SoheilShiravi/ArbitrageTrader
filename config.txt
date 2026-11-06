@@ -1,0 +1,9 @@
+Meta1 = C:\Program Files\MetaTrader 5\terminal64.exe
+Meta2 = C:\Program Files\Opo group MetaTrader 5\terminal64.exe
+Symbol = EURUSD
+Lot = 0.01
+Pip = 3
+Hedging = 0
+TP = 5
+SL = 10
+Time = 10

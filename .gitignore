@@ -1,0 +1,7 @@
+.venv_Arbitrage_Trader/
+__pycache__/
+*.pyc
+*.log
+*.log.*
+build/
+dist/
